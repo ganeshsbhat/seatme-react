@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.has-error{
+  border: solid 1px red;
+}
+
+.container{
+  background-color: powderblue;
+}

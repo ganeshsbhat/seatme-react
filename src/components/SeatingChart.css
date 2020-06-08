@@ -1,0 +1,21 @@
+.seat-available {
+    color:#14ac2d;
+}
+.seat-selected {
+    color:#1e69da;
+}
+.seat-unavailable {
+    color:#928181
+}
+.seat-label {
+  font-size: 0.6em;
+  color: #afb1b1;
+}
+
+.seating-chart{
+    background-color: whitesmoke;
+    border: solid 1px #c7c7c7;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
