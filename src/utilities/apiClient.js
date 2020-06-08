@@ -13,7 +13,7 @@ export class ApiClient {
     });
   }
 
-  // Delegates the call to postData method to call API and fetch availability data
+  // Delegates the call to postData method to call API and fetch availability data.
   getAvailability(seatingData){
      return this.postData("/seatings/availability", seatingData);
   }
